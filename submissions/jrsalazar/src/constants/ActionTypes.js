@@ -1,0 +1,17 @@
+
+export const BUTTON_UP = 'BUTTON_UP'
+export const BUTTON_DOWN = 'BUTTON_DOWN'
+
+export const LISTEN_FOR_PLANET = 'LISTEN_FOR_PLANET'
+export const RECEIVE_PLANET = 'RECEIVE_PLANET'
+
+export const FETCH_SITH = 'FETCH_SITH'
+export const FETCH_SITH_SENT = 'FETCH_SITH_SENT'
+export const FETCH_SITH_FAILURE = 'FETCH_SITH_FAILURE'
+export const FETCH_SITH_SUCCESS = 'FETCH_SITH_SUCCESS'
+
+export const RECEIVE_SITH = 'RECEIVE_SITH'
+export const UPDATE_SITHS = 'UPDATE_SITHS'
+
+export const CANCEL_FETCH = 'CANCEL_FETCH'
+
